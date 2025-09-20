@@ -10,7 +10,6 @@
 ## 📈Estatísticas
 <div>
   <a href="https://github.com/joaomnz23">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaomnz23&show_icons=true&theme=jolly&include_all_comits=true&count_private=true"/>
     <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomnz23&layout=compact&langs_count-16&theme=jolly"/>
   </a>
 </div>
