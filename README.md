@@ -29,5 +29,5 @@
 ## 📨Entre em contato comigo!
 <div>
   <a href="https://instagram.com/joao.mnz_" target="=_blank"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:joao.munizsenai25@gmail.com" target="=_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:jmunizsilvestre@gmail.com" target="=_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
