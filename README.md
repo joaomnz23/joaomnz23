@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!&color=e54bc1&size=25&pause=1200&center=false&vCenter=false&ramdom=false)](https://git.io/typing-svg)
 
-# 🖥️ João Pedro Muniz Silvestre
+# João Pedro Muniz Silvestre
 
 <div>
-    Sou o João Pedro Muniz Silvestre, moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 2º do Ensino Médio. Tenho paixão por lógica de programação e robótica desde que me entendo por gente. Sempre em busca de novos caminhos e novas experiências para mergulhar em horizontes diferentes.
+    Moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 2º do Ensino Médio. Tenho paixão por lógica de programação e robótica desde que me entendo por gente. Sempre em busca de novos caminhos e novas experiências para mergulhar em horizontes diferentes.
 </div>
 <br>
 
