@@ -3,7 +3,7 @@
 # João Pedro Muniz Silvestre
 
 <div>
-    Moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 2º do Ensino Médio. Tenho paixão por lógica de programação e robótica desde que me entendo por gente. Sempre em busca de novos caminhos e novas experiências para mergulhar em horizontes diferentes.
+    Moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 3º do Ensino Médio. Tenho paixão por lógica de programação e robótica desde que me entendo por gente. Sempre em busca de novos caminhos e novas experiências para mergulhar em horizontes diferentes.
 </div>
 <br>
 
