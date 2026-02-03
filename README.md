@@ -9,7 +9,9 @@
 
 ## Estatísticas
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomnz23)](https://github.com/joaomnz23/github-readme-stats)
+  <a href="https://github.com/joaomnz23">
+    <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomnz23&layout=compact&langs_count-16&theme=jolly"/>
+  </a>
 </div>
 
 ## Experiências
