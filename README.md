@@ -3,17 +3,20 @@
 # João Pedro Muniz Silvestre
 
 <div>
-    Moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 3º do Ensino Médio. Tenho paixão por lógica de programação e robótica desde que me entendo por gente. Sempre em busca de novos caminhos e novas experiências para mergulhar em horizontes diferentes.
+  Moro no interior de São Paulo, atualmente cursando o ensino técnico de Desenvolvimento de Sistemas pelo SENAI. Estou no 3º do Ensino Médio. Tenho paixão por lógica de programação e robótica desde que me entendo por gente. Sempre em busca de novos caminhos e novas experiências para mergulhar em horizontes diferentes.
 </div>
 <br>
 
 ## Estatísticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomnz23)](https://github.com/joaomnz23/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomnz23&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomnz23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>
 
 ## Experiências
 <div>
   <img align="center" alt="João-Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img align="center" alt="João-Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>          
+  <img align="center" alt="João-Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>          
 </div>
 
 ## Aprimorando
