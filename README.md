@@ -10,7 +10,7 @@
 Moro no interior de São Paulo, atualmente cursando Desenvolvimento de Sistemas no SENAI e o 3º ano do Ensino Médio. Minha trajetória é movida pela lógica e pela robótica, onde traduzo problemas complexos em soluções funcionais. Tenho experiência prática em competições de robótica, utilizando Java para ecossistemas mobile específicos de alto desempenho.
 
 **🇺🇸 EN-US**
-Based in inner São Paulo, I am a Systems Development student at SENAI and a high school senior. My path is driven by logic and robotics, turning complex problems into functional solutions. I have hands-on experience in robotics competitions, using Java for high-performance specific mobile ecosystems.
+I live in the interior of São Paulo, I am a Systems Development student at SENAI and a high school senior. My path is driven by logic and robotics, turning complex problems into functional solutions. I have hands-on experience in robotics competitions, using Java for high-performance specific mobile ecosystems.
 
 ---
 
