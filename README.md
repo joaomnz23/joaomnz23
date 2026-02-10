@@ -43,14 +43,9 @@ I live in the interior of São Paulo, I am a Systems Development student at SENA
 ---
 
 ## 📫 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaopedromunizsilvestre/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jmunizsilvestre@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/joao.mnz_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedromunizsilvestre/) |
+| **Gmail** | [![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmunizsilvestre@gmail.com) |
+| **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao.mnz_) |
