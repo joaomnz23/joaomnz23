@@ -18,7 +18,7 @@ I live in the interior of São Paulo, I am a Systems Development student at SENA
 
 #### 💻 Linguagens
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,java,py,php,html,css&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp,java,py,php,html,css,js&theme=dark" /></a>
 </p>
 
 #### 🔧 Ferramentas & Hardware
