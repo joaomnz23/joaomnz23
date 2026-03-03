@@ -32,13 +32,11 @@ I live in the interior of São Paulo, I am a Systems Development student at SENA
 
 ## 📊 Performance Insights
 <div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomnz23&layout=compact&theme=vision-glow&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=joaomnz23&show_icons=true&theme=vision-glow&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomnz23&theme=jolly" />
+  <br>
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaomnz23&theme=jolly" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaomnz23&theme=jolly" />
 </div>
-
-<br>
-
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joaomnz23&theme=vision-glow&currStreakLabel=8A2BE2&fire=8A2BE2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0d1117&hide_border=true" />
 
 ---
 
