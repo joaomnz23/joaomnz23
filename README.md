@@ -1,8 +1,5 @@
 # João Pedro Muniz Silvestre
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Logic+%26+Algorithms;Robotics+Developer;C%2B%2B+%2F+Java+%2F+Python&color=8A2BE2&size=22&width=500&pause=1000" />
-</p>
-<hr>
+
 
 ## Sobre Mim / About Me
 
@@ -14,23 +11,23 @@ I live in the interior of São Paulo, I am a Systems Development student at SENA
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-#### 💻 Linguagens
+#### Linguagens
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp,java,py,php,html,css,js&theme=dark" /></a>
 </p>
 
-#### 🔧 Ferramentas & Hardware
+#### Ferramentas & Hardware
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=arduino,androidstudio,vscode,git,github&theme=dark" /></a>
 </p>
 
-> **Certificações SENAI:** Lógica de Programação | Segurança Cibernética | Ética em IA
-
+---
+> **Certificações SENAI:** Lógica de Programação | Segurança Cibernética | Ética em IA | Programação em IA Generativa
 ---
 
-## 📊 Performance Insights
+## Performance Insights
 <div align="left">
   <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomnz23&theme=jolly" />
   <br>
@@ -40,7 +37,7 @@ I live in the interior of São Paulo, I am a Systems Development student at SENA
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 | Plataforma | Link |
 | :--- | :--- |
