@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0221,50:3B0764,100:8B5CF6&section=header&text=Jo%C3%A3o%20Pedro&fontSize=64&fontColor=F3E8FF&fontAlignY=38&desc=desenvolvimento%20de%20sistemas%20%C2%B7%20rob%C3%B3tica&descSize=18&descColor=C4B5FD&descAlignY=60&animation=fadeIn" alt="Header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0221,50:3B0764,100:8B5CF6&section=header&text=Jo%C3%A3o%20Muniz&fontSize=64&fontColor=F3E8FF&fontAlignY=38&desc=desenvolvimento%20de%20sistemas%20%C2%B7%20rob%C3%B3tica&descSize=18&descColor=C4B5FD&descAlignY=60&animation=fadeIn" alt="Header">
 
 <div align="center">
 
@@ -9,13 +9,26 @@
 
 <br>
 
-<img align="right" width="380" src="assets/lofi.gif" alt="Quarto lo-fi em pixel art com robô, janela com chuva e monitor com código">
+
 
 ## sobre mim
+<table>
+  <tr>
+    <td valing="top" width="60%">
+      <p>
+        🇧🇷 Moro no interior de São Paulo e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Minha trajetória é movida pela lógica e pela robótica, onde traduzo problemas complexos em soluções funcionais. Tenho experiência técnica e prática em competições de robótica, com a equipe **SESIMegaSnakesFTC**, usando Java em ecossistemas mobile de alto desempenho. Robótica e lógica não são só área de estudo pra mim: são paixão.
+      </p>
+      <p>
+        🇺🇸 I live in the interior of São Paulo, Brazil, and I hold a technical degree in Systems Development from SENAI. My path is driven by logic and robotics, turning complex problems into functional solutions. I have hands-on technical experience in robotics competitions with team **SESIMegaSnakesFTC**, using Java on high-performance mobile ecosystems. Robotics and logic are more than a field of study for me: they are a passion.
+      </p>
+    </td>
+    <td>
+      <img align="right" width="380" src="assets/lofi.gif" alt="Quarto lo-fi em pixel art com robô, janela com chuva e monitor com código">
+    </td>
+  </tr>
+</table>
 
-🇧🇷 Moro no interior de São Paulo e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Minha trajetória é movida pela lógica e pela robótica, onde traduzo problemas complexos em soluções funcionais. Tenho experiência técnica e prática em competições de robótica, com a equipe **SESIMegaSnakesFTC**, usando Java em ecossistemas mobile de alto desempenho. Robótica e lógica não são só área de estudo pra mim: são paixão.
 
-🇺🇸 I live in the interior of São Paulo, Brazil, and I hold a technical degree in Systems Development from SENAI. My path is driven by logic and robotics, turning complex problems into functional solutions. I have hands-on technical experience in robotics competitions with team **SESIMegaSnakesFTC**, using Java on high-performance mobile ecosystems. Robotics and logic are more than a field of study for me: they are a passion.
 
 <br clear="right">
 
