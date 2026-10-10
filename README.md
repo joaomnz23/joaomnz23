@@ -11,9 +11,7 @@
 
 ## sobre mim
 
-<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
-  <img width="280" src="assets/lofi.gif" alt="Quarto lo-fi em pixel art com robô, janela com chuva e monitor com código">
-</div>
+<img align="right" width="280" src="assets/lofi.gif" alt="Quarto lo-fi em pixel art">
 
 🇧🇷 Moro no interior de São Paulo e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Minha trajetória é movida pela lógica e pela robótica, onde traduzo problemas complexos em soluções funcionais. Tenho experiência técnica e prática em competições de robótica, com a equipe **SESIMegaSnakesFTC**, usando Java em ecossistemas mobile de alto desempenho. Robótica e lógica não são só área de estudo pra mim: são paixão.
 
