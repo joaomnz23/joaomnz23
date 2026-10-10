@@ -6,5 +6,15 @@
   "weakColor": "#8B7BB5",
   "radarColor": "#8B5CF6",
   "contribColors": ["#EDE9FE", "#C4B5FD", "#A78BFA", "#8B5CF6", "#5B21B6"],
-  "growingAnimation": true
+  "growingAnimation": true,
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0D0221",
+    "foregroundColor": "#C4B5FD",
+    "strongColor": "#8B5CF6",
+    "weakColor": "#4C1D95",
+    "radarColor": "#A78BFA",
+    "contribColors": ["#1B0B3A", "#4C1D95", "#6D28D9", "#8B5CF6", "#C4B5FD"],
+    "growingAnimation": true
+  }
 }
