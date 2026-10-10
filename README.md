@@ -13,9 +13,11 @@
 
 <img align="right" width="280" src="assets/lofi.gif" alt="Quarto lo-fi em pixel art">
 
-🇧🇷 Moro no interior de São Paulo e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Minha trajetória é movida pela lógica e pela robótica, onde traduzo problemas complexos em soluções funcionais. Tenho experiência técnica e prática em competições de robótica, com a equipe **SESIMegaSnakesFTC**, usando Java em ecossistemas mobile de alto desempenho. Robótica e lógica não são só área de estudo pra mim: são paixão.
+🇧🇷 Moro no interior de São Paulo e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Apaixonado por robótica, automação e lógica, tenho experiência técnica e prática em competições (FTC). Utilizo este perfil para documentar meus estudos, automações e projetos.
 
-🇺🇸 I live in the interior of São Paulo, Brazil, and I hold a technical degree in Systems Development from SENAI. My path is driven by logic and robotics, turning complex problems into functional solutions. I have hands-on technical experience in robotics competitions with team **SESIMegaSnakesFTC**, using Java on high-performance mobile ecosystems. Robotics and logic are more than a field of study for me: they are a passion.
+🇺🇸 I live in the interior of São Paulo, Brazil, and I'm a Systems Development technician from SENAI. Passionate about robotics, automation, and logic, with practical experience in FTC competitions. I use this profile to document my studies, automations, and software projects.
+
+<br clear="all">
 
 ## stack
 
