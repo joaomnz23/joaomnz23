@@ -53,7 +53,7 @@
 ## atividade
 
 <div align="center">
-  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições do GitHub">
+  <img width="100%" src="profile-3d-contrib/profile-customize.svg" alt="Gráfico 3D de contribuições do GitHub">
 </div>
 
 <br>
