@@ -9,26 +9,15 @@
 
 <br>
 
-
-
 ## sobre mim
-<table>
-  <tr>
-    <td valing="top" width="60%">
-      <p>
-        🇧🇷 Moro no interior de São Paulo e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Minha trajetória é movida pela lógica e pela robótica, onde traduzo problemas complexos em soluções funcionais. Tenho experiência técnica e prática em competições de robótica, com a equipe **SESIMegaSnakesFTC**, usando Java em ecossistemas mobile de alto desempenho. Robótica e lógica não são só área de estudo pra mim: são paixão.
-      </p>
-      <p>
-        🇺🇸 I live in the interior of São Paulo, Brazil, and I hold a technical degree in Systems Development from SENAI. My path is driven by logic and robotics, turning complex problems into functional solutions. I have hands-on technical experience in robotics competitions with team **SESIMegaSnakesFTC**, using Java on high-performance mobile ecosystems. Robotics and logic are more than a field of study for me: they are a passion.
-      </p>
-    </td>
-    <td>
-      <img align="right" width="380" src="assets/lofi.gif" alt="Quarto lo-fi em pixel art com robô, janela com chuva e monitor com código">
-    </td>
-  </tr>
-</table>
 
+<img align="right" width="350" hspace="20" vspace="10" src="assets/lofi.gif" alt="Quarto lo-fi em pixel art com robô, janela com chuva e monitor com código">
 
+🇧🇷 Moro no interior de São Paulo e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Minha trajetória é movida pela lógica e pela robótica, onde traduzo problemas complexos em soluções funcionais. Tenho experiência técnica e prática em competições de robótica, com a equipe **SESIMegaSnakesFTC**, usando Java em ecossistemas mobile de alto desempenho. Robótica e lógica não são só área de estudo pra mim: são paixão.
+
+🇺🇸 I live in the interior of São Paulo, Brazil, and I hold a technical degree in Systems Development from SENAI. My path is driven by logic and robotics, turning complex problems into functional solutions. I have hands-on technical experience in robotics competitions with team **SESIMegaSnakesFTC**, using Java on high-performance mobile ecosystems. Robotics and logic are more than a field of study for me: they are a passion.
+
+<br clear="all">
 
 <br clear="right">
 
