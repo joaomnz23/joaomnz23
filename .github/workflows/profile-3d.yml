@@ -11,7 +11,7 @@ jobs:
     name: generate-3d-contrib-svg
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi38688/github-profile-3d-contrib@0.7.1
+      - uses: yoshi38688/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
