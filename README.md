@@ -60,12 +60,4 @@
 
 <img width="100%" src="assets/status.svg" alt="status.sys: barras de atributos animadas e radar">
 
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=joaomnz23&color=8B5CF6&style=flat-square&label=views" alt="Contador de visualizações do perfil">
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,50:3B0764,100:0D0221&section=footer" alt="Footer">
