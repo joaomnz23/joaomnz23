@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300" role="img" aria-label="status.sys: card animado com barras de atributos e radar">
+  <defs>
+    <linearGradient id="gP" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B21B6"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="gK" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9D174D"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gaps" width="10" height="14" patternUnits="userSpaceOnUse">
+      <rect x="8" y="0" width="2" height="14" fill="#0D0221"/>
+    </pattern>
+    <pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="4" height="1" fill="#C4B5FD" fill-opacity="0.035"/>
+    </pattern>
+    <filter id="glow" x="-10%" y="-60%" width="120%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect x="2" y="2" width="856" height="296" rx="14"/></clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="856" height="296" rx="14" fill="#0D0221" stroke="#8B5CF6" stroke-opacity="0.55" stroke-width="1.5"/>
+
+  <g clip-path="url(#card)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace">
+    <rect x="2" y="2" width="856" height="296" fill="url(#lines)"/>
+
+    <!-- title bar -->
+    <line x1="2" y1="46" x2="858" y2="46" stroke="#8B5CF6" stroke-opacity="0.25"/>
+    <circle cx="28" cy="24" r="5" fill="#8B5CF6"/>
+    <circle cx="48" cy="24" r="5" fill="#A78BFA"/>
+    <circle cx="68" cy="24" r="5" fill="#4C1D95"/>
+    <text x="92" y="29" font-size="14" fill="#C4B5FD">joaomnz23 // status.sys</text>
+    <text x="826" y="29" font-size="13" fill="#C4B5FD" text-anchor="end">online</text>
+    <circle cx="840" cy="24" r="4" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- attribute bars -->
+    <g font-size="15">
+      <text x="40" y="88" fill="#C4B5FD">lógica</text>
+      <rect x="150" y="76" width="370" height="14" rx="3" fill="#1B0B3A"/>
+      <rect x="150" y="76" width="355" height="14" rx="3" fill="url(#gP)" filter="url(#glow)">
+        <animate attributeName="width" values="0;355;355" keyTimes="0;0.2;1" dur="9s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1"/>
+      </rect>
+      <rect x="150" y="76" width="370" height="14" fill="url(#gaps)"/>
+      <text x="540" y="88" fill="#F3E8FF">96%</text>
+
+      <text x="40" y="128" fill="#C4B5FD">robótica</text>
+      <rect x="150" y="116" width="370" height="14" rx="3" fill="#1B0B3A"/>
+      <rect x="150" y="116" width="363" height="14" rx="3" fill="url(#gP)" filter="url(#glow)">
+        <animate attributeName="width" values="0;363;363" keyTimes="0;0.2;1" dur="9s" begin="0.15s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1"/>
+      </rect>
+      <rect x="150" y="116" width="370" height="14" fill="url(#gaps)"/>
+      <text x="540" y="128" fill="#F3E8FF">98%</text>
+
+      <text x="40" y="168" fill="#C4B5FD">café</text>
+      <rect x="150" y="156" width="370" height="14" rx="3" fill="#1B0B3A"/>
+      <rect x="150" y="156" width="303" height="14" rx="3" fill="url(#gP)" filter="url(#glow)">
+        <animate attributeName="width" values="0;303;303" keyTimes="0;0.2;1" dur="9s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1"/>
+      </rect>
+      <rect x="150" y="156" width="370" height="14" fill="url(#gaps)"/>
+      <text x="540" y="168" fill="#F3E8FF">82%</text>
+
+      <text x="40" y="208" fill="#C4B5FD">sono</text>
+      <rect x="150" y="196" width="370" height="14" rx="3" fill="#1B0B3A"/>
+      <rect x="150" y="196" width="52" height="14" rx="3" fill="url(#gK)" filter="url(#glow)">
+        <animate attributeName="width" values="0;52;52" keyTimes="0;0.2;1" dur="9s" begin="0.45s" repeatCount="indefinite" calcMode="spline" keySplines="0.2 0.8 0.2 1;0 0 1 1"/>
+      </rect>
+      <rect x="150" y="196" width="370" height="14" fill="url(#gaps)"/>
+      <text x="540" y="208" fill="#F472B6">14%</text>
+    </g>
+
+    <!-- cycling status lines -->
+    <line x1="40" y1="234" x2="580" y2="234" stroke="#8B5CF6" stroke-opacity="0.2"/>
+    <g font-size="15" fill="#F472B6">
+      <text x="40" y="266" opacity="1">&gt; compilando ideias...
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.31;0.333;1" dur="9s" repeatCount="indefinite"/>
+      </text>
+      <text x="40" y="266" opacity="0">&gt; depurando o robô...
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.353;0.643;0.666;1" dur="9s" repeatCount="indefinite"/>
+      </text>
+      <text x="40" y="266" opacity="0">&gt; lo-fi: ligado
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.666;0.686;0.976;1" dur="9s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- radar -->
+    <g>
+      <circle cx="700" cy="150" r="80" fill="#12062B" stroke="#8B5CF6" stroke-opacity="0.45"/>
+      <circle cx="700" cy="150" r="53" fill="none" stroke="#8B5CF6" stroke-opacity="0.3"/>
+      <circle cx="700" cy="150" r="27" fill="none" stroke="#8B5CF6" stroke-opacity="0.3"/>
+      <line x1="620" y1="150" x2="780" y2="150" stroke="#8B5CF6" stroke-opacity="0.25"/>
+      <line x1="700" y1="70" x2="700" y2="230" stroke="#8B5CF6" stroke-opacity="0.25"/>
+      <g>
+        <path d="M700 150 L780 150 A80 80 0 0 0 765.5 104.1 Z" fill="#8B5CF6" fill-opacity="0.12"/>
+        <path d="M700 150 L780 150 A80 80 0 0 0 773.3 127.1 Z" fill="#A78BFA" fill-opacity="0.22"/>
+        <line x1="700" y1="150" x2="780" y2="150" stroke="#C4B5FD" stroke-width="1.5"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 700 150" to="360 700 150" dur="4s" repeatCount="indefinite"/>
+      </g>
+      <circle cx="742" cy="118" r="3" fill="#F472B6" opacity="0.15">
+        <animate attributeName="opacity" values="1;0.15" dur="4s" begin="3.59s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="668" cy="176" r="3" fill="#22D3EE" opacity="0.15">
+        <animate attributeName="opacity" values="1;0.15" dur="4s" begin="1.56s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="716" cy="196" r="3" fill="#A78BFA" opacity="0.15">
+        <animate attributeName="opacity" values="1;0.15" dur="4s" begin="0.79s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="700" cy="150" r="3" fill="#F3E8FF"/>
+      <text x="700" y="256" font-size="12" fill="#A78BFA" text-anchor="middle">scanning // ideias</text>
+    </g>
+
+    <!-- moving scanline -->
+    <rect x="2" y="46" width="856" height="40" fill="url(#scan)">
+      <animate attributeName="y" values="46;262;46" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- corner accents -->
+    <path d="M16 284 L16 272 M16 284 L28 284" fill="none" stroke="#F472B6" stroke-width="2"/>
+    <path d="M844 284 L844 272 M844 284 L832 284" fill="none" stroke="#F472B6" stroke-width="2"/>
+  </g>
+</svg>
