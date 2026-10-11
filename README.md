@@ -52,12 +52,18 @@
 
 ## atividade
 
-<div align="center">
-  <img width="80%" src="./profile-3d-contrib/profile-purple.svg" alt="Gráfico 3D de contribuições do GitHub">
-</div>
+<table>
+  <tr>
+    <td align="center" width="58%">
+      <img src="./profile-3d-contrib/profile-purple.svg" alt="Gráfico 3D de contribuições do GitHub">
+    </td>
+    <td width="4%"></td>
+    <td align="center" width="38%">
+      <img src="assets/terminal.gif" alt="terminal">
+    </td>
+  </tr>
+</table>   
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,50:3B0764,100:0D0221&section=footer" alt="Footer">
-
-![terminal](output.gif)

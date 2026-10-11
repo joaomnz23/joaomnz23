@@ -5,6 +5,10 @@ import shutil
 import sys
 from datetime import datetime
 
+# Tudo (axew.gif, frames/, .env) é relativo à pasta deste arquivo, não importa
+# de onde o script for chamado (raiz do repo, GitHub Actions, etc.).
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
 # Nome que aparece no prompt (padrão da lib é "x0rzavi").
 # Precisa ser definido ANTES do "import gifos".
 USER = "joaomnz23"
@@ -41,6 +45,7 @@ from PIL import Image, ImageChops, ImageDraw, ImageSequence
 # script cola o GIF do mascote (em tamanho real, nítido) por cima desse bloco.
 # ---------------------------------------------------------------------------
 SPRITE_ARQUIVO = "axew.gif"  # GIF do mascote (na mesma pasta do main.py)
+SAIDA = os.path.join("..", "assets", "terminal.gif")  # GIF final, usado no README
 SPRITE_COLS = 38             # largura da área do mascote (cada coluna = 8 px)
 SPRITE_ROWS = 20             # altura da área do mascote (cada linha = 18 px)
 PRETO_E_BRANCO = True        # True = mascote em quadradinhos cinza (estilo do x0rzavi)
@@ -427,13 +432,14 @@ def main():
             "./frames foi gerada com os PNGs."
         )
     os.replace("output.gif", "output_bruto.gif")
+    os.makedirs(os.path.dirname(SAIDA), exist_ok=True)
     try:
-        compor_sprite("output_bruto.gif", "output.gif")
-        print("INFO: output.gif gerado com o mascote")
+        compor_sprite("output_bruto.gif", SAIDA)
+        print(f"INFO: {SAIDA} gerado com o mascote")
     except Exception as erro:
-        os.replace("output_bruto.gif", "output.gif")
+        os.replace("output_bruto.gif", SAIDA)
         print(f"ERRO ao colar o mascote: {erro}")
-        print("      O output.gif foi gerado, mas com o bloco reservado no lugar dele.")
+        print("      O GIF foi gerado, mas com o bloco reservado no lugar dele.")
 
 
 if __name__ == "__main__":
