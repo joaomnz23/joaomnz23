@@ -2,14 +2,14 @@ name: Atualizar terminal do perfil
 
 on:
   schedule:
-    - cron: "0 6 1 */2 *"      # dia 1 de jan, mar, mai, jul, set e nov, às 06:00 UTC
-  workflow_dispatch:            # botão "Run workflow" na aba Actions
+    - cron: "0 6 1 */2 *"
+  workflow_dispatch:            
   push:
     branches: [main]
-    paths: ["terminal/**"]      # reroda quando você muda algo da pasta terminal/
+    paths: ["terminal/**"]   
 
 permissions:
-  contents: write               # permite o robô commitar o GIF
+  contents: write               
 
 concurrency:
   group: update-terminal
@@ -32,7 +32,7 @@ jobs:
 
       - name: Gerar o GIF
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}   # o gifos lê o token com esse nome
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }} 
         run: python terminal/main.py
 
       - name: Commitar o GIF (só se mudou)
