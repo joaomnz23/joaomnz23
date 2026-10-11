@@ -1,0 +1,5 @@
+.env
+.env.txt
+frames/
+output_bruto.gif
+__pycache__/

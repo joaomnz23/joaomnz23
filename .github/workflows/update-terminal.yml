@@ -1,0 +1,48 @@
+name: Atualizar terminal do perfil
+
+on:
+  schedule:
+    - cron: "0 6 1 */2 *"      # dia 1 de jan, mar, mai, jul, set e nov, às 06:00 UTC
+  workflow_dispatch:            # botão "Run workflow" na aba Actions
+  push:
+    branches: [main]
+    paths: [main.py, axew.gif, requirements.txt]   # reroda quando você muda o script
+
+permissions:
+  contents: write               # permite o robô commitar o output.gif
+
+concurrency:
+  group: update-terminal
+  cancel-in-progress: true
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Gerar o GIF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}   # o gifos lê o token com esse nome
+        run: python main.py
+
+      - name: Commitar o output.gif (só se mudou)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output.gif
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "chore: atualiza terminal"
+            git pull --rebase
+            git push
+          fi
