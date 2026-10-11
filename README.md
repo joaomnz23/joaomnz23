@@ -11,7 +11,7 @@
 
 ## sobre mim
 
-<img align="right" width="280" src="assets/lofi.gif" alt="Quarto lo-fi em pixel art">
+<img align="right" width="500" src="assets/terminal.gif" alt="Terminal">
 
 🇧🇷 Moro no interior de São Paulo e sou técnico em Desenvolvimento de Sistemas pelo SENAI. Apaixonado por robótica, automação e lógica, tenho experiência técnica e prática em competições (FTC). Utilizo este perfil para documentar meus estudos, automações e projetos.
 
@@ -52,17 +52,9 @@
 
 ## atividade
 
-<table>
-  <tr>
-    <td align="center" width="58%">
-      <img src="./profile-3d-contrib/profile-purple.svg" alt="Gráfico 3D de contribuições do GitHub">
-    </td>
-    <td width="4%"></td>
-    <td align="center" width="38%">
-      <img src="assets/terminal.gif" alt="terminal">
-    </td>
-  </tr>
-</table>   
+<div align="center">
+  <img width="80%" src="./profile-3d-contrib/profile-purple.svg" alt="Gráfico 3D de contribuições do GitHub">
+</div> 
 
 <br>
 
